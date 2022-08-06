@@ -1,5 +1,5 @@
-package com
+package com.dorohedoro
 
-package object dorohedoro {
+package object basic {
   val PACKAGE_DOROHEDORO = "dorohedoro"
 }

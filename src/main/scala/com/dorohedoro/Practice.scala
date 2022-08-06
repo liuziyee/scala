@@ -1,5 +1,7 @@
 package com.dorohedoro
 
+import com.dorohedoro.basic.PACKAGE_DOROHEDORO
+
 object Practice {
   def main(args: Array[String]): Unit = {
     val arr: Array[Int] = Array(0, 30, 117)

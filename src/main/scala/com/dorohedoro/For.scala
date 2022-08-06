@@ -1,7 +1,5 @@
 package com.dorohedoro
 
-import scala.collection.immutable
-
 object For {
   def main(args: Array[String]): Unit = {
     for (no <- 0 to 9 by 3) {
